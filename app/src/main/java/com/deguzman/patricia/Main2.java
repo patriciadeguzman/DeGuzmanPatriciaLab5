@@ -12,6 +12,7 @@ public class Main2 extends AppCompatActivity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.screen2);
+        setTitle("Activity 2");
     }
 
     public void process(View v){
